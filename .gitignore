@@ -12,14 +12,7 @@
 .idea/**/uiDesigner.xml
 .idea/dictionaries
 
-# Gradle:
-.idea/**/gradle.xml
-.idea/**/libraries
-
-# Mongo Explorer plugin:
-.idea/**/mongoSettings.xml
-
-## File-based project format:
+# File-based project format:
 *.iws
 
 # IntelliJ
@@ -28,26 +21,11 @@
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
-# JIRA plugin
-atlassian-ide-plugin.xml
-
-# Crashlytics plugin (for Android Studio and IntelliJ)
-com_crashlytics_export_strings.xml
-crashlytics.properties
-crashlytics-build.properties
-fabric.properties
-
 *.class
 
 # Log file
 *.log
 *.plexus
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
 
 # Package Files #
 *.jar
@@ -57,5 +35,13 @@ fabric.properties
 *.tar.gz
 *.rar
 
-# virtual machine crash logs
-hs_err_pid*
+# Gradle:
+!gradle-wrapper.jar
+.gradle
+/build/
+.idea/**/gradle.xml
+.idea/**/libraries
+
+
+##########
+MANIFEST.MF

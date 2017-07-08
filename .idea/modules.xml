@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Curse-Server-Tool.iml" filepath="$PROJECT_DIR$/Curse-Server-Tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/playperium-forge-installer.iml" filepath="$PROJECT_DIR$/.idea/modules/playperium-forge-installer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/playperium-forge-installer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/playperium-forge-installer_main.iml" group="playperium-forge-installer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/playperium-forge-installer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/playperium-forge-installer_test.iml" group="playperium-forge-installer" />
     </modules>
   </component>
 </project>

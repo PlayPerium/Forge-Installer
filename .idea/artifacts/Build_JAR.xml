@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Build_JAR">
-    <output-path>$PROJECT_DIR$/out/artifacts/build</output-path>
-    <root id="archive" name="Build_JAR.jar">
-      <element id="module-output" name="Curse-Server-Tool" />
-    </root>
-  </artifact>
-</component>
