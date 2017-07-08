@@ -42,6 +42,5 @@
 .idea/**/gradle.xml
 .idea/**/libraries
 
-
-##########
-MANIFEST.MF
+# Meta-Inf:
+/META-INF/
